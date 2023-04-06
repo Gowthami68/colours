@@ -1,0 +1,11 @@
+colour names
+red
+black
+white
+pink
+blue
+meroon
+grey
+yesh
+organge
+yellow
